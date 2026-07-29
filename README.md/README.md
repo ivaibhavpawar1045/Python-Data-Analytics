@@ -14,5 +14,10 @@ This repository contains my daily practice, notes, projects, and datasets while 
 ## Progress
 
 - ✅ Day 1 Completed
+- ✅ Day 2 Completed
+- ✅ Day 3 Completed
+- ✅ Day 4 Completed
+- ✅ Day 5 Completed
+- ✅ Day 6 Completed
 
 More updates will be added daily.
