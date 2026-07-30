@@ -19,5 +19,7 @@ This repository contains my daily practice, notes, projects, and datasets while 
 - ✅ Day 4 Completed
 - ✅ Day 5 Completed
 - ✅ Day 6 Completed
+- ✅ Day 7 Completed
+- 🏆 Mini Project 01 Completed
 
 More updates will be added daily.
