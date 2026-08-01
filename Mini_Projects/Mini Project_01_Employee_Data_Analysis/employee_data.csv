@@ -1,0 +1,21 @@
+Employee_ID,Employee_Name,Department,City,Experience,Salary,Performance_Rating
+E001,Rahul Sharma,Sales,Pune,2,48000,4
+E002,Priya Patel,HR,Mumbai,5,65000,5
+E003,Amit Verma,IT,Bangalore,4,72000,4
+E004,Sneha Joshi,Finance,Pune,3,58000,3
+E005,Rohan Singh,IT,Delhi,6,81000,5
+E006,Anjali Mehta,HR,Ahmedabad,2,52000,4
+E007,Vikram Rao,Sales,Hyderabad,7,85000,5
+E008,Neha Gupta,Marketing,Pune,4,61000,4
+E009,Karan Shah,Finance,Mumbai,5,69000,4
+E010,Pooja Iyer,IT,Chennai,1,45000,3
+E011,Rahul Sharma,Sales,Pune,2,48000,4
+E012,Priya Patel,HR,Mumbai,5,65000,5
+E013,Arjun Nair,IT,Kochi,3,60000,4
+E014,Meera Kulkarni,Finance,Nagpur,8,92000,5
+E015,Sachin Deshmukh,Sales,Pune,4,62000,4
+E016,Divya Reddy,Marketing,Hyderabad,6,78000,5
+E017,Nikhil Jain,IT,Jaipur,2,54000,3
+E018,Ritu Kapoor,HR,Delhi,7,88000,5
+E019,Akash Patil,Finance,Pune,5,71000,4
+E020,Simran Kaur,Marketing,Chandigarh,3,59000,4
