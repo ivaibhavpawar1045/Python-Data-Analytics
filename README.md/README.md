@@ -12,21 +12,17 @@ This repository documents my complete roadmap from Python fundamentals to profes
 
 Duration: **45 Days**
 
----
-
-# 📈 Progress Tracker
-
-     ✅ Day 1 – Python Basics 
-     ✅ Day 2 – Python Revision Part 1 
-     ✅ Day 3 – Python Revision Part 2 
-     ✅ Day 4 – Python Revision Part 3 
-     ✅ Day 5 – Introduction to Pandas 
-     ✅ Day 6 – Filtering & Row Selection 
-     ✅ Day 7 – Sorting & Data Manipulation 
-     🏆 Mini Project 01 – Employee Data Analysis 
-     ✅ Day 8 – Handling Missing Values 
-     ✅ Day 9 – GroupBy & Aggregation 
-     🏆 Mini Project 02 – Department Salary Analysis 
+     - ✅ Day 1 Completed
+     - ✅ Day 2 Completed
+     - ✅ Day 3 Completed
+     - ✅ Day 4 Completed
+     - ✅ Day 5 Completed
+     - ✅ Day 6 Completed
+     - ✅ Day 7 Completed
+     - 🏆 Mini Project 01 Completed
+     - ✅ Day 8 Completed
+     - ✅ Day 9 Completed
+     - 🏆 Mini Project 02 Completed
 
 
 More updates will be added as I progress through the roadmap.
