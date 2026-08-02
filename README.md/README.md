@@ -1,10 +1,9 @@
 # 📊 Python Data Analytics Roadmap
 
-Welcome to my Python for Data Analytics learning journey.
+          Welcome to my Python for Data Analytics learning journey.
 
-This repository documents my complete roadmap from Python fundamentals to professional Data Analytics projects. It includes daily practice, interview notes, mini projects, datasets, and portfolio-ready projects built using Python and industry-standard libraries.
-
----
+     - This repository documents my complete roadmap from Python fundamentals to professional Data Analytics projects. 
+     - It includes daily practice, interview notes, mini projects, datasets, and portfolio-ready projects built using Python and industry-standard libraries.
 
 # 🚀 Roadmap
 
@@ -23,6 +22,7 @@ Duration: **45 Days**
      - ✅ Day 8 Completed
      - ✅ Day 9 Completed
      - 🏆 Mini Project 02 Completed
+     - ✅ Day 10 Completed
 
 
 More updates will be added as I progress through the roadmap.
