@@ -44,6 +44,7 @@ More updates will be added as I progress through the roadmap.
      - SQL
      - Power BI
      - Excel
+     - CSV
      - Git & GitHub
 
 
