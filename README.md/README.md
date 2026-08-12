@@ -43,6 +43,7 @@ More updates will be added as I progress through the roadmap.
      - Seaborn (Coming Soon)
      - SQL
      - Power BI
+     - DAX Queries
      - Excel
      - CSV
      - Git & GitHub
