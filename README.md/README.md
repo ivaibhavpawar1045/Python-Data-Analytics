@@ -49,7 +49,7 @@ More updates will be added as I progress through the roadmap.
      - SQL
      - Power BI
      - DAX Queries
-     - Excel
+     - Excel Data Analysis
      - CSV
      - Git & GitHub
 
