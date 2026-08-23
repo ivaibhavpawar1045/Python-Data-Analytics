@@ -2,8 +2,8 @@
 
           Welcome to my Python for Data Analytics learning journey.
 
-     - This repository documents my complete roadmap from Python fundamentals to professional Data Analytics projects. 
-     - It includes daily practice, interview notes, mini projects, datasets, and portfolio-ready projects built using Python and industry-standard libraries.
+          - This repository documents my complete roadmap from Python fundamentals to professional Data Analytics projects. 
+          - It includes daily practice, interview notes, mini projects, datasets, and portfolio-ready projects built using Python and industry-standard libraries.
 
 # 🚀 Roadmap
 
@@ -42,27 +42,27 @@ More updates will be added as I progress through the roadmap.
 
 # 🛠 Technologies
 
-     - Python
-     - Pandas
-     - NumPy (Coming Soon)
-     - Matplotlib (Coming Soon)
-     - Seaborn (Coming Soon)
-     - SQL
-     - Power BI
-     - DAX Queries
-     - Excel Data Analysis
-     - CSV
-     - Git & GitHub
+          - Python
+          - Pandas
+          - NumPy (Coming Soon)
+          - Matplotlib (Coming Soon)
+          - Seaborn (Coming Soon)
+          - SQL
+          - Power BI
+          - DAX Queries
+          - Excel Data Analysis
+          - CSV
+          - Git & GitHub
 
 
 # 🎯 Learning Goals
 
-- Build strong Python fundamentals.
-- Master Pandas for data analysis.
-- Learn data visualization.
-- Build portfolio-ready projects.
-- Prepare for Data Analyst interviews.
-- Become job-ready.
+          - Build strong Python fundamentals.
+          - Master Pandas for data analysis.
+          - Learn data visualization.
+          - Build portfolio-ready projects.
+          - Prepare for Data Analyst interviews.
+          - Become job-ready.
 
 
 ## 👨‍💻 Author
