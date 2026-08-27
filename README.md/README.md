@@ -44,7 +44,7 @@ More updates will be added as I progress through the roadmap.
 
           - Python
           - Pandas
-          - NumPy (Coming Soon)
+          - NumPy (Starting Soon)
           - Matplotlib (Coming Soon)
           - Seaborn (Coming Soon)
           - SQL
