@@ -36,6 +36,7 @@ Duration: **45 Days**
      - ✅ Day 18 Completed
      - ✅ Day 19 Completed
      - ✅ Day 20 Completed
+     - 🏆 Mini Project 06 Progress
 
 
 More updates will be added as I progress through the roadmap.
