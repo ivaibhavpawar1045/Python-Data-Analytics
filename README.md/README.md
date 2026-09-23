@@ -43,6 +43,7 @@ Duration: **45 Days**
           - ✅ Day 24 Completed
           - ✅ Day 25 Completed
           - ✅ Day 26 Completed
+          - ✅ Day 27 Completed
 
 
 More updates will be added as I progress through the roadmap.
