@@ -49,6 +49,7 @@ Duration: **45 Days**
           - ✅ Day 28 Completed
           - ✅ Day 29 Completed
           - ✅ Day 30 Completed
+          - ✅ Day 31Completed
 
 
 More updates will be added as I progress through the roadmap.
@@ -57,8 +58,8 @@ More updates will be added as I progress through the roadmap.
 
           - Python
           - Pandas
-          - NumPy (Starting Soon)
-          - Matplotlib (Coming Soon)
+          - NumPy
+          - Matplotlib 
           - Seaborn (Coming Soon)
           - SQL
           - Power BI
