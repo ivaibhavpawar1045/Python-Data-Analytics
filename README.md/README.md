@@ -57,6 +57,8 @@ Duration: **45 Days**
           - ✅ Day 36 Completed
           - ✅ Day 37 Completed
           - 🏆 Mini Project 08 Completed
+          - ✅ Day 38 Completed
+          - ✅ Day 39 Completed
 
 
 More updates will be added as I progress through the roadmap.
